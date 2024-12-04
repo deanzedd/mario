@@ -146,4 +146,9 @@ public class Game extends Canvas implements Runnable {
 		return WINDOW_WIDTH;
 	}
 	
+	//theanh12345depzai vclllllll
+	
+	
+	
+	
 }
